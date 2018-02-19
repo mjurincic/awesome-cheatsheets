@@ -31,7 +31,15 @@ Feel free to browse each file to learn new things and to keep them at hand when 
 
 - [Bash](languages/bash.sh)
 
-- [JavaScript](languages/javascript.js)
+- [JavaScript](languages/javascript.js): npm ([docs](https://www.npmjs.com/))
+
+- Python: pip (docs)
+
+- Java: maven (docs)
+
+- C#: NuGet (docs)
+
+- Go: Go get packages (docs)
 
 
 ## Backend
