@@ -654,4 +654,7 @@ process.on('SIGTERM', function () {
     process.exit(0);
   });
 });
-
+/* *******************************************************************************************
+ * Tracing memory leaks
+ * https://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/#find-problem
+ * ******************************************************************************************* */
